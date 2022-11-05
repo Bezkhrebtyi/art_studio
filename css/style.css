@@ -1,0 +1,8 @@
+*,*::before, *::after
+
+<style>
+.round {
+    width: 20;
+    border-radius: 20;
+}
+</style>
